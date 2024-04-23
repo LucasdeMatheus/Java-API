@@ -1,0 +1,26 @@
+[
+  {
+    "uf": "DF",
+    "complemento": "",
+    "ddd": "61",
+    "logradouro": "SBN Quadra 1",
+    "bairro": "Asa Norte",
+    "localidade": "Brasília",
+    "ibge": "5300108",
+    "siafi": "9701",
+    "gia": "",
+    "cep": "70040-010"
+  },
+  {
+    "uf": "DF",
+    "complemento": "",
+    "ddd": "61",
+    "logradouro": "QNH 10",
+    "bairro": "Taguatinga Norte (Taguatinga)",
+    "localidade": "Brasília",
+    "ibge": "5300108",
+    "siafi": "9701",
+    "gia": "",
+    "cep": "72130-600"
+  }
+]
